@@ -1,2 +1,7 @@
 # App-Dev
 My first Repository
+# MY FAVORITE MOVIE 
+## ACTION/COMEDY/HORROR
+1. JOHN WICK
+2. PAGPAG
+3. ALIVE
